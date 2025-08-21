@@ -12,14 +12,13 @@
     "@tailwindcss/vite": "^4.1.7",
     "axios": "^1.6.8",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "tailwindcss": "^3.4.10"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.3.1"
   },
-  "engines": {
-    "node": "18.x"
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.9.5"
   }
 }
